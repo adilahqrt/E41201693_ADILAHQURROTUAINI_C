@@ -6,7 +6,7 @@ public class Declaration {
     double sales_tax;
     short number1;
 
-    int 2beOrNotbe;
+    int 2beOrNot2be;
     float price index;
     double lastYear'sPrice;
     long class;
